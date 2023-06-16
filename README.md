@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Essienubong
+- 👋 Hi, I’m @charles sunday
 - 👀 I’m interested in ... python framework django
 - 🌱 I’m currently learning ...django at the moment
 - 💞️ I’m looking to collaborate on ...anyone on my filed of study
